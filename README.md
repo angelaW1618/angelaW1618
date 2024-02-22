@@ -31,6 +31,9 @@ I'm Angela, a Fullstack developer.
 ![Clerk](https://img.shields.io/badge/Clerk-0077B5?style=for-the-badge&logo=clerk&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
+## My projects
+ 📅 [Event Track](https://github.com/angelaW1618/event-track) - A comprehensive event management platform with a strong emphasis on user experience, security, and functionality.
+
 
 ## Reach me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelawangtech1618/)
