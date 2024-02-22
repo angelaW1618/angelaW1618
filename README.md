@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a new student at Tech Elevator, and I'm excited to learn new skills.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiangelaW1618=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelaW1618)](https://github.com/anuraghazra/github-readme-stats)
+
