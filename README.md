@@ -14,7 +14,7 @@ I'm Angela, a Fullstack developer.
     - 🐣 Bacon and eggs walk into a restaurant. The host says, "We don't serve breakfast here"
     - You ever wonder how trains eat? They choo-choo 🚂, of course
 
-## Things I code with
+## Things I Code With
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -31,13 +31,13 @@ I'm Angela, a Fullstack developer.
 ![Clerk](https://img.shields.io/badge/Clerk-0077B5?style=for-the-badge&logo=clerk&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
-## My projects
+## My Projects
  📅 [Event Track](https://github.com/angelaW1618/event-track) - A comprehensive event management platform with a strong emphasis on user experience, security, and functionality.
  
  *more coming soon...*
 
 
-## Reach me at
+## Reach Me At
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelawangtech1618/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelaW1618)
 
