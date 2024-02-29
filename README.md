@@ -32,7 +32,7 @@ I'm Angela, a Fullstack developer.
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ## My Projects
- 📅 [Event Track](https://github.com/angelaW1618/event-track) - A comprehensive event management platform with a strong emphasis on user experience, security, and functionality.
+ 📅 [Event Track](https://github.com/angelaW1618/event_track) - A comprehensive event management platform with a strong emphasis on user experience, security, and functionality.
 
  😻 [Fan Page](https://github.com/angelaW1618/fan-page) - My first web project, built with my love for Zelda.
  
