@@ -34,7 +34,7 @@ I'm Angela, a Fullstack developer.
 ## My Projects
  📅 [Event Track](https://github.com/angelaW1618/event_track) - A comprehensive event management platform with a strong emphasis on user experience, security, and functionality.
 
- 😻 [Fan Page](https://github.com/angelaW1618/fan-page) - My first website, built with my love for Zelda.
+ 😻 [Fan Page](https://github.com/angelaW1618/fan-page) - My first website, built with my love for Zelda games.
  
  *more coming soon...*
 
