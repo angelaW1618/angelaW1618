@@ -17,6 +17,8 @@ I'm Angela, a Fullstack developer.
 ## Things I Code With
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black) 
+![Reactquery](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,9 +34,11 @@ I'm Angela, a Fullstack developer.
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ## My Projects
- 📅 [Event Track](https://github.com/angelaW1618/event_track) - A comprehensive event management platform with a strong emphasis on user experience, security, and functionality.
+ 📅[Event Track](https://github.com/angelaW1618/event_track) - A comprehensive event management platform with a strong emphasis on user experience, security, and functionality.
+ 
+ 📱[Vibegram](https://github.com/angelaW1618/Vibegram) - A user-friendly social media platform that combines an attractive design with a rich array of features. 
 
- 😻 [Fan Page](https://github.com/angelaW1618/fan-page) - My first website, built with my love for Zelda games.
+ 😻[Fan Page](https://github.com/angelaW1618/fan-page) - My first website, built with my love for Zelda games.
  
  *more coming soon...*
 
