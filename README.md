@@ -8,11 +8,7 @@ I'm Angela, a Fullstack developer.
 - I’m currently working on something cool 😉
 - 🌱  I’m currently learning new stuff
 - 👨‍💻  Read more about my projects at [placeholder for my profile web, in development]
-- ⚡  Fun facts:
-  - I ❤️ 🐶s and 😺s, but I don't own any pets
-  - I like funny jokes 😆
-    - 🐣 Bacon and eggs walk into a restaurant. The host says, "We don't serve breakfast here"
-    - You ever wonder how trains eat? They choo-choo 🚂, of course
+
 
 ## Things I Code With
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
