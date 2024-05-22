@@ -7,7 +7,7 @@ I'm Angela, a Fullstack developer.
 ## About Me
 - I’m currently working on something cool 😉
 - 🌱  I’m currently learning new stuff
-- 👨‍💻  Read more about my projects at [placeholder for my profile web, in development]
+- 👨‍💻  Read more about my projects at the links below
 
 
 ## Things I Code With
