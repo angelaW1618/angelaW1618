@@ -34,7 +34,7 @@ I'm Angela, a Fullstack developer.
 - 📅 **[Event Track](https://github.com/angelaW1618/event_track)** - A comprehensive event management platform with a strong emphasis on user experience, security, and functionality.
 - 📱 **[Vibegram](https://github.com/angelaW1618/Vibegram)** - A user-friendly social media platform that combines an attractive design with a rich array of features.
 - 💳 **[Online Shop](https://github.com/angelaW1618/online-shop)** - An e-commerce platform crafted with a responsive Vue.js front end and a sturdy Spring Boot Java backend that utilizes PostgreSQL, allowing for proficient data management and dependable storage.
-- 😻 **[Fan Page](https://github.com/angelaW1618/fan-page)** - My first website, built with my love for Zelda games.
+- 😻 **[Social Media App](https://github.com/angelaW879/Project1Team2AW))** - A social media project that aims to provide a platform for people to connect, follow and chat with each other. The core functional scope includes features such as post, like, comment and share posts, edit, and delete their posts..
  
  *more coming soon...*
 
